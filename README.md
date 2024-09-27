@@ -1,3 +1,3 @@
 # baat_cheet
 
-This is a cross platform chat application ade via flutter
+This is a cross platform chat application made via flutter
