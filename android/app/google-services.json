@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520246753991",
+    "project_id": "baatcheet-kare",
+    "storage_bucket": "baatcheet-kare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520246753991:android:28d6299a5cc9a23f911ce2",
+        "android_client_info": {
+          "package_name": "com.example.baat_cheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBz10sguKBiHVlRCCmAv1XRfjrZUJLdKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
